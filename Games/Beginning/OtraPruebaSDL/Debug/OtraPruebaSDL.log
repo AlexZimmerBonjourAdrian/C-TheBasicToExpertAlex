@@ -1,0 +1,4 @@
+﻿  01_hello_SDL.cpp
+  main.cpp
+  Generando código...
+LINK : fatal error LNK1104: no se puede abrir el archivo 'SDL2.lib SDL2main.lib'
