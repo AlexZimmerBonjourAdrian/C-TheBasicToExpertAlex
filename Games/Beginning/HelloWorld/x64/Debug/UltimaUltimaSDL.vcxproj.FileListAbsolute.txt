@@ -1,0 +1,4 @@
+E:\Fps\C-TheBasicToExpertAlex\Games\Beginning\UltimaUltimaSDL\x64\Debug\UltimaUltimaSDL.exe
+E:\Fps\C-TheBasicToExpertAlex\Games\Beginning\UltimaUltimaSDL\x64\Debug\UltimaUltimaSDL.pdb
+E:\Fps\C-TheBasicToExpertAlex\Games\Beginning\HelloWorld\x64\Debug\HelloWOrld.exe
+E:\Fps\C-TheBasicToExpertAlex\Games\Beginning\HelloWorld\x64\Debug\HelloWOrld.pdb

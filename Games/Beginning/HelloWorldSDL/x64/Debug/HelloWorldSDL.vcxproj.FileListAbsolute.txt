@@ -1,0 +1,2 @@
+E:\Fps\C-TheBasicToExpertAlex\Games\Beginning\HelloWorldSDL\x64\Debug\HelloWorldSDL.exe
+E:\Fps\C-TheBasicToExpertAlex\Games\Beginning\HelloWorldSDL\x64\Debug\HelloWorldSDL.pdb
